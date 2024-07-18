@@ -1,4 +1,4 @@
-# THESIS
+# PROJECT STRESS
 
 BASELINE PREPROCESSING.ipynb, FITBIT PREPROCESSING.ipynb, OMSIGNAL PREPROCESSING.ipynb, STRESSD PREPROCESSING.ipynb notebooks show the 
 data exploration, missing data and outlier analysis, pre-processing processes for the different data streams individually.
